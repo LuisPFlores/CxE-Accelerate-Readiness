@@ -5,7 +5,7 @@
 * [Move application authentication to Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure)
 
 ## Marketing Assets and Field Enablement
-Internal Playbook: the [Upgrade from AD FS to Azure AD playbook](https://aka.ms/compete/security/ADFS-playbook) is a consolidated resource our field team uses qualify, target, and land the value prop of upgrading from AD FS to Azure AD. 
+**Internal Playbook**: the [Upgrade from AD FS to Azure AD playbook](https://aka.ms/compete/security/ADFS-playbook) is a consolidated resource our field team uses qualify, target, and land the value prop of upgrading from AD FS to Azure AD. 
 
 [Reduce costs and upgrade with confidence from AD FS to Azure AD](https://aka.ms/adfstoaaddeck)
 
