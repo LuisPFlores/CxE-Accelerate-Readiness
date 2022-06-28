@@ -12,11 +12,14 @@
 
 [Upgrade from Active Directory Federation Services (AD FS)](https://www.microsoft.com/en-us/security/business/identity-access-management/upgrade-adfs)
 
- Help protect your identity security landscape: [Microsoft Defender for Identity](https://www.microsoft.com/en-us/security/business/threat-protection/identity-defender)
+[Microsoft Defender for Identity](https://www.microsoft.com/en-us/security/business/threat-protection/identity-defender) (*Help protect your identity security landscape*)
+
+[Manage and secure access to your applications with Azure Active Directory](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4rNUU)
+
 
 ## Workshops and ECIF Funding 
-* [Securing Identities Workshops:](https://partner.microsoft.com/en-us/membership/partner-incentives/build-intent-workshops-securing-identities)) Customers interested in AD FS migrations can use our identity workshops that are delivered by partners. These workshops are designed to help customers assess all their apps (SaaS, Federated, Legacy, Modern)
-* [Identity Modernization and Migration (ECIF Funding):](https://www.microsoft.com/microsoft-365/partners/security-deployment-resources)ECIF funding is available to accelerate deployment activities to help advance towards identity modernization, migration or expanding the use of Azure AD to authenticate across all cloud applications.
+* [Securing Identities Workshops: ](https://partner.microsoft.com/en-us/membership/partner-incentives/build-intent-workshops-securing-identities) Customers interested in AD FS migrations can use our identity workshops that are delivered by partners. These workshops are designed to help customers assess all their apps (SaaS, Federated, Legacy, Modern)
+* [Identity Modernization and Migration (ECIF Funding): ](https://www.microsoft.com/microsoft-365/partners/security-deployment-resources)ECIF funding is available to accelerate deployment activities to help advance towards identity modernization, migration or expanding the use of Azure AD to authenticate across all cloud applications.
 
 ## Training
 
