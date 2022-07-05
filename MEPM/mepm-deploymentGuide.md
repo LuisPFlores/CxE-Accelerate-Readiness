@@ -22,4 +22,4 @@ Permissions Management helps your organization tackle cloud permissions by enabl
 ### Deployment Approach 
 Follow the 5 phases below to deploy Entra Permissions Management in your environment:
 
-![Microsoft Entra Permissions Management](/images/MEPM-deployment-approach.png)
+![Deployment Approach](/images/mepm-deployment-approach.png)
