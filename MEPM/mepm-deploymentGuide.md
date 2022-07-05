@@ -17,5 +17,9 @@ Permissions Management helps your organization tackle cloud permissions by enabl
 - Uncover permission risk - Assess permission risk by evaluating the gap between permissions granted and permissions used.
 - Monitor and detect anomalies - Detect anomalous permission usage and generate detailed forensic reports.
 
-![Microsoft Entra Permissions Management](media/MEPM-key-cases.png)
+![Microsoft Entra Permissions Management](/images/MEPM-key-cases.png)
 
+### Deployment Approach 
+Follow the 5 phases below to deploy Entra Permissions Management in your environment:
+
+![Microsoft Entra Permissions Management](/images/MEPM-deployment-approach.png)
