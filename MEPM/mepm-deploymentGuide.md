@@ -23,3 +23,39 @@ Permissions Management helps your organization tackle cloud permissions by enabl
 Follow the 5 phases below to deploy Entra Permissions Management in your environment:
 
 ![Deployment Approach](/images/mepm-deployment-approach.png)
+
+## Phase 1: Enable Microsoft Entra Permissions Management
+
+The steps below are one time setup for the tenant and are to be completed before beginning to onboard cloud infrastructure enviroment
+
+### Prerequisites
+To enable Permissions Management in your organization:
+
+- You must have an Azure AD tenant. If you don't already have one, [create a free account](https://azure.microsoft.com/free/).
+- You must be eligible for or have an active assignment to the global administrator role as a user in that tenant.
+
+### Personas, Activities and Permissions
+![Microsoft Entra Permissions Management](media/personas-act-permiss.png)
+
+### Tools
+In order to streamline the enablement of MEPM, the following tools should be available to complete the enablement steps
+Ensure you have access to tools used during the enablement and cloud configuration steps, using Any Of:
+  - [MS Graph Explorer (Recommended)](https://docs.microsoft.com/en-us/graph/graph-explorer/graph-explorer-overview)
+  - [Local session with Azure CLI, Microsoft Graph Powershell SDK module](https://docs.microsoft.com/en-us/powershell/microsoftgraph/overview?view=graph-powershell-1.0)
+  - [Cloud Session using Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/overview)
+
+### Actions to take:
+1. In your browser:
+    1. Go to [Entra services](https://entra.microsoft.com) and use your credentials to sign in to [Azure Active Directory](https://ms.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview).
+    1. If you aren't already authenticated, sign in as a global administrator user.
+    1. If needed, activate the global administrator role in your Azure AD tenant.
+    1. In the Azure AD portal, select **Permissions Management**, and then select the link to purchase a license or begin a trial.
+
+>[!OPTIONAL]
+> Delegate MEPM console admin access for users – Organizations may choose to delegate permissions to other users in their environment to continue the next phases after the enablement steps are complete. 
+
+- [Group-based permission settings:](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/how-to-create-group-based-permissions) Identify and grant access to users with the correct account scope and permissions. In addition to being admins, users can have the following granular permissions:
+  - **Viewers:** View only access to scoped cloud accounts 
+  - **Controller:** Modify the CIEM properties
+  - **Approvers:** Able to approve permission requests
+  - **Requestors:** Request for permissions in cloud accounts
