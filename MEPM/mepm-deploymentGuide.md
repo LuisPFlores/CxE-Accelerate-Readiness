@@ -35,7 +35,7 @@ To enable Permissions Management in your organization:
 - You must be eligible for or have an active assignment to the global administrator role as a user in that tenant.
 
 ### Personas, Activities and Permissions
-![Microsoft Entra Permissions Management](media/personas-act-permiss.png)
+![Microsoft Entra Permissions Management](/images/personas-act-permiss.png)
 
 ### Tools
 In order to streamline the enablement of MEPM, the following tools should be available to complete the enablement steps
