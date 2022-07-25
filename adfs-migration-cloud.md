@@ -4,7 +4,6 @@
 
 * [Move application authentication to Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/migrate-adfs-apps-to-azure)
 * [What is Microsoft Defender for Identity?](https://docs.microsoft.com/en-us/defender-for-identity/what-is)
-* [Migrate to cloud authentication using Staged Rollout](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout)
 
 ## Marketing Assets and Field Enablement
 **Internal Playbook**: the [Upgrade from AD FS to Azure AD playbook](https://aka.ms/compete/security/ADFS-playbook) is a consolidated resource our field team uses qualify, target, and land the value prop of upgrading from AD FS to Azure AD. 
@@ -42,4 +41,8 @@
 * [How to roll out Application Proxy in Azure Active Directory – YouTube](https://www.youtube.com/watch?v=0mLFWcG95OA&list=PLLasX02E8BPBm1xNMRdvP6GtA6otQUqp0&index=105)
 * [App Migration Whitepaper](https://aka.ms/migrateapps/whitepaper)
 * [App Migration Toolkit ](https://aka.ms/MigrateApps)
-## News
+
+## Tools
+* [Migrate to cloud authentication using Staged Rollout](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-staged-rollout)
+* [https://aka.ms/migrateapps/ADFStools](https://github.com/AzureAD/Deployment-Plans/tree/master/ADFS%20to%20AzureAD%20App%20Migration)
+* [https://aka.ms/migrateapps/samples ](https://github.com/AzureAD/Deployment-Plans/tree/master/ADFS%20to%20AzureAD%20App%20Migration/samples)
