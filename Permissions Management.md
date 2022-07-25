@@ -5,7 +5,7 @@
 * [Product Description](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management?rtc=1)
 * [Entra Permissions Management Advisors](https://www.yammer.com/cepartners/#/threads/inGroup?type=in_group&feedId=104075460608&view=all)
 * [Knowledgecenter - CloudKnox](https://microsoft.sharepoint.com/sites/knowledgecenter/_layouts/15/TopicPagePreview.aspx?topicId=AL_mPxwzc4ar9Xzn-cGRMwkQQ&topicName=CloudKnox&ls=Ans_Office)
-* [OnRamp](http://aka.ms/PermissionsManagementCDX)
+* [Demo- Microsoft Entra Permissions Management](http://aka.ms/PermissionsManagementCDX)
 * [Entra Permissions Management in M365 catalog](http://aka.ms/TryPermissionsManagement)
 
 ## Marketing Assets and Field Enablement
