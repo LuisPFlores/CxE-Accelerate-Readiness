@@ -15,7 +15,7 @@
 
 
 ## Workshops and ECIF Funding 
-* [Securing Identities Workshops: ](https://partner.microsoft.com/en-us/membership/partner-incentives/build-intent-workshops-securing-identities) Customers interested in AD FS migrations can use our identity workshops that are delivered by partners. These workshops are designed to help customers assess all their apps (SaaS, Federated, Legacy, Modern)
+* [Secure Identities and Access – Build Intent Workshop](https://partner.microsoft.com/en-us/membership/partner-incentives/build-intent-workshops-securing-identities)  The Microsoft Secure Identities and Access Workshop is designed to help customers assess the maturity of their identity estates. By using Secure Score and application discovery tools, you can help your customers gain visibility into their current identity estates and work together with your customers to define clear next steps and the best ways to mitigate risks.
 * [Identity Modernization and Migration (ECIF Funding): ](https://www.microsoft.com/microsoft-365/partners/security-deployment-resources)ECIF funding is available to accelerate deployment activities to help advance towards identity modernization, migration or expanding the use of Azure AD to authenticate across all cloud applications.
 
 ## Technical resources
