@@ -15,5 +15,7 @@
 * [Microsoft Entra Permissions Management - Buy -](http://aka.ms/BuyPermissionsManagement)
 
 ## Training
+* [Microssoft Technology Airlift April 2022 Day 3](https://www.youtube.com/watch?v=rhm-6w-D4-w)
+* [Entra Permissions Management - Risk Assessment Workshop - July 2022](https://www.youtube.com/watch?v=PD2EK5vBjoc)
 
 ## News
