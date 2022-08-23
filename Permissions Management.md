@@ -15,8 +15,9 @@
 * [Microsoft Entra Permissions Management - Buy -](http://aka.ms/BuyPermissionsManagement)
 * [Pricing](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management#office-StandaloneSKU-935qzbq)
 
-## Training
+## Videos
 * [Microssoft Technology Airlift April 2022 Day 3](https://www.youtube.com/watch?v=rhm-6w-D4-w)
 * [Entra Permissions Management - Risk Assessment Workshop - July 2022](https://www.youtube.com/watch?v=PD2EK5vBjoc)
+* [Looking at Entra Permissions Management to Manage Permissions Across AWS, GCP and Azure](https://www.youtube.com/watch?v=lWUV4KZNzIk)
 
 ## News
