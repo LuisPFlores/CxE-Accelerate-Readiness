@@ -14,6 +14,7 @@
 * [Microsoft Entra Permissions Management - Trial -](http://aka.ms/TryPermissionsManagement)
 * [Microsoft Entra Permissions Management - Buy -](http://aka.ms/BuyPermissionsManagement)
 * [Pricing](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management#office-StandaloneSKU-935qzbq)
+* [EPM Estimator](https://github.com/microsoft/EPMEstimator/tree/main)
 
 ## Videos
 * [Microssoft Technology Airlift April 2022 Day 3](https://www.youtube.com/watch?v=rhm-6w-D4-w)
