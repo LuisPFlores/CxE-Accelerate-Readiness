@@ -1,7 +1,7 @@
 # Entra Permissions Management
 
 ## Documentation
-* [Permissions Management](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/)
+* [Micorosoft Entra Permissions Management](https://docs.microsoft.com/en-us/azure/active-directory/cloud-infrastructure-entitlement-management/)
 * [Product Description](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management?rtc=1)
 * [Demo- Microsoft Entra Permissions Management](http://aka.ms/PermissionsManagementCDX)
 * [Microsoft Entra Permissions Management operations reference](https://learn.microsoft.com/en-us/entra/architecture/permissions-manage-ops-guide-intro)
